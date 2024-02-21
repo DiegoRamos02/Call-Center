@@ -1,0 +1,84 @@
+6787
+Diego Ramos
+Linux
+52
+10:00
+19:00
+2
+8976
+Valeria Ramirez
+Servidores
+34
+10:00
+19:00
+2
+1234
+Juan P‚rez
+Portatiles
+45
+09:30
+18:30
+2
+5678
+Mar¡a Gonz lez
+Redes
+22
+08:00
+17:00
+2
+9876
+Carlos Mart¡nez
+Impresoras
+30
+10:30
+19:30
+2
+3456
+Sof¡a L¢pez
+Linux
+28
+08:30
+17:30
+2
+6543
+Miguel Rodr¡guez
+Servidores
+40
+09:00
+18:00
+2
+7890
+Laura S nchez
+Linux
+35
+08:45
+17:45
+2
+2310
+Pedro Torres
+Portatiles
+38
+09:15
+18:15
+2
+4321
+Ana Garc¡a
+Redes
+26
+08:15
+17:15
+2
+1098
+Diego Fern ndez
+Linux
+32
+09:45
+18:45
+2
+2109
+Isabel Morales
+Impresoras
+48
+10:15
+19:15
+2

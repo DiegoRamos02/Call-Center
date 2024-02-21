@@ -1,0 +1,126 @@
+3235
+Diego Ramos
+Linux
+23
+10:30
+17:30
+2
+36
+Valeria Ramirez
+Servidores
+24
+10:30
+17:30
+2
+37
+Jorge Ramirez
+Redes
+24
+10:30
+17:30
+2
+38
+Lorena Grimaldo
+Portatiles
+25
+10:30
+17:30
+2
+39
+Diego Aguayo
+Linux
+26
+10:30
+17:30
+2
+40
+Diego Mora
+Servidores
+27
+10:30
+17:30
+2
+41
+Yahir Hernandez
+Impresoras
+28
+10:30
+17:30
+2
+42
+Regina Ramirez
+Escritorio
+29
+10:30
+17:30
+2
+43
+Alfredo Gutierrez
+Linux
+30
+10:30
+17:30
+2
+44
+Blue Bettle
+Redes
+31
+10:30
+17:30
+2
+45
+Judith Lopez
+Portatiles
+32
+10:30
+17:30
+2
+46
+Salvador Guevara
+Linux
+33
+10:30
+17:30
+2
+47
+Pedro Catan
+Servidores
+34
+10:30
+17:30
+2
+48
+Ignacio Echeverria
+Impresoras
+35
+10:30
+17:30
+2
+49
+Sulema Cabrera
+Portatiles
+36
+10:30
+17:30
+2
+50
+Jose Alvizo
+Redes
+37
+10:30
+17:30
+2
+51
+Susana Cuevas
+Impresoras
+38
+10:30
+17:30
+2
+1250
+Jose Alvizo
+Redes
+33
+13:00
+17:00
+2

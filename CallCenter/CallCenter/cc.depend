@@ -1,0 +1,260 @@
+# depslib dependency file v1.0
+1698434499 source:c:\users\diego\downloads\callcenter\callcenter\agent.cpp
+	<iostream>
+	<string>
+	"agent.hpp"
+	"client.hpp"
+	"clientlist.hpp"
+
+1693419003 c:\users\diego\downloads\callcenter\callcenter\agent.h
+	<iostream>
+	<string>
+	"time.h"
+	"name.h"
+	"client.h"
+	"clientlist.h"
+
+1693418154 c:\users\diego\downloads\callcenter\callcenter\time.h
+	<iostream>
+	<string>
+
+1693418179 c:\users\diego\downloads\callcenter\callcenter\name.h
+	<iostream>
+	<string>
+
+1693418211 c:\users\diego\downloads\callcenter\callcenter\client.h
+	<iostream>
+	<string>
+	"time.h"
+	"name.h"
+
+1694224720 c:\users\diego\downloads\callcenter\callcenter\clientlist.h
+	<iostream>
+	<fstream>
+	<string>
+	<exception>
+	"client.h"
+
+1698434523 source:c:\users\diego\downloads\callcenter\callcenter\agentmenu.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<exception>
+	"agentmenu.hpp"
+	"agentlist.hpp"
+	"agent.hpp"
+	"clientlist.hpp"
+	"clientmenu.hpp"
+	"client.hpp"
+	"time.hpp"
+	"name.hpp"
+
+1697653329 c:\users\diego\downloads\callcenter\callcenter\agentmenu.h
+	<iostream>
+	<fstream>
+	"agent.h"
+	"agentlist.h"
+
+1693498048 c:\users\diego\downloads\callcenter\callcenter\agentlist.h
+	<iostream>
+	<fstream>
+	<string>
+	<exception>
+	"agent.h"
+	"clientlist.h"
+
+1693419003 c:\users\diego\downloads\callcenter\callcenter\clientmenu.h
+	"clientlist.h"
+	"client.h"
+	"agent.h"
+	"agentlist.h"
+
+1698434534 source:c:\users\diego\downloads\callcenter\callcenter\client.cpp
+	"client.hpp"
+
+1698434559 source:c:\users\diego\downloads\callcenter\callcenter\clientmenu.cpp
+	<iostream>
+	"clientmenu.hpp"
+	"clientlist.hpp"
+	"time.hpp"
+	"name.hpp"
+	"client.hpp"
+	"agent.hpp"
+	"agentlist.hpp"
+
+1698434568 source:c:\users\diego\downloads\callcenter\callcenter\main.cpp
+	<iostream>
+	"mainmenu.hpp"
+
+1693343873 c:\users\diego\downloads\callcenter\callcenter\mainmenu.h
+
+1698434610 source:c:\users\diego\downloads\callcenter\callcenter\name.cpp
+	"name.hpp"
+
+1698434615 source:c:\users\diego\downloads\callcenter\callcenter\time.cpp
+	<iostream>
+	<string>
+	"time.hpp"
+
+1698434603 source:c:\users\diego\downloads\callcenter\callcenter\mainmenu.cpp
+	<locale.h>
+	"mainmenu.hpp"
+	"agent.hpp"
+	"agentlist.hpp"
+	"agentmenu.hpp"
+
+1698434387 c:\users\diego\downloads\callcenter\callcenter\agent.hpp
+	<iostream>
+	<string>
+	"time.hpp"
+	"name.hpp"
+	"client.hpp"
+	"clientlist.hpp"
+
+1693418154 c:\users\diego\downloads\callcenter\callcenter\time.hpp
+	<iostream>
+	<string>
+
+1693418179 c:\users\diego\downloads\callcenter\callcenter\name.hpp
+	<iostream>
+	<string>
+
+1698434414 c:\users\diego\downloads\callcenter\callcenter\client.hpp
+	<iostream>
+	<string>
+	"time.hpp"
+	"name.hpp"
+
+1698434456 c:\users\diego\downloads\callcenter\callcenter\clientlist.hpp
+	<iostream>
+	<fstream>
+	<string>
+	<exception>
+	"client.hpp"
+
+1698434426 c:\users\diego\downloads\callcenter\callcenter\agentmenu.hpp
+	<iostream>
+	<fstream>
+	"agent.hpp"
+	"agentlist.hpp"
+
+1698434401 c:\users\diego\downloads\callcenter\callcenter\agentlist.hpp
+	<iostream>
+	<fstream>
+	<string>
+	<exception>
+	"agent.hpp"
+	"clientlist.hpp"
+
+1698434443 c:\users\diego\downloads\callcenter\callcenter\clientmenu.hpp
+	"clientlist.hpp"
+	"client.hpp"
+	"agent.hpp"
+	"agentlist.hpp"
+
+1693343873 c:\users\diego\downloads\callcenter\callcenter\mainmenu.hpp
+
+1699373194 source:c:\users\diego\onedrive\documentos\callcenter\callcenter\agent.cpp
+	<iostream>
+	<string>
+	"agent.hpp"
+	"client.hpp"
+	"clientlist.hpp"
+
+1699373359 c:\users\diego\onedrive\documentos\callcenter\callcenter\agent.hpp
+	<iostream>
+	<string>
+	"time.hpp"
+	"name.hpp"
+	"client.hpp"
+	"clientlist.hpp"
+
+1699373570 c:\users\diego\onedrive\documentos\callcenter\callcenter\time.hpp
+	<iostream>
+	<string>
+
+1699373551 c:\users\diego\onedrive\documentos\callcenter\callcenter\name.hpp
+	<iostream>
+	<string>
+
+1699373475 c:\users\diego\onedrive\documentos\callcenter\callcenter\client.hpp
+	<iostream>
+	<string>
+	"time.hpp"
+	"name.hpp"
+
+1699373513 c:\users\diego\onedrive\documentos\callcenter\callcenter\clientlist.hpp
+	<iostream>
+	<fstream>
+	<string>
+	<exception>
+	"client.hpp"
+
+1699373060 source:c:\users\diego\onedrive\documentos\callcenter\callcenter\agentmenu.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<exception>
+	"agentmenu.hpp"
+	"agentlist.hpp"
+	"agent.hpp"
+	"clientlist.hpp"
+	"clientmenu.hpp"
+	"client.hpp"
+	"time.hpp"
+	"name.hpp"
+
+1699373458 c:\users\diego\onedrive\documentos\callcenter\callcenter\agentmenu.hpp
+	<iostream>
+	<fstream>
+	"agent.hpp"
+	"agentlist.hpp"
+
+1699373419 c:\users\diego\onedrive\documentos\callcenter\callcenter\agentlist.hpp
+	<iostream>
+	<fstream>
+	<string>
+	<exception>
+	"agent.hpp"
+	"clientlist.hpp"
+
+1699373526 c:\users\diego\onedrive\documentos\callcenter\callcenter\clientmenu.hpp
+	"clientlist.hpp"
+	"client.hpp"
+	"agent.hpp"
+	"agentlist.hpp"
+
+1699373233 source:c:\users\diego\onedrive\documentos\callcenter\callcenter\client.cpp
+	"client.hpp"
+
+1699373255 source:c:\users\diego\onedrive\documentos\callcenter\callcenter\clientmenu.cpp
+	<iostream>
+	"clientmenu.hpp"
+	"clientlist.hpp"
+	"time.hpp"
+	"name.hpp"
+	"client.hpp"
+	"agent.hpp"
+	"agentlist.hpp"
+
+1699373270 source:c:\users\diego\onedrive\documentos\callcenter\callcenter\main.cpp
+	<iostream>
+	"mainmenu.hpp"
+
+1699373536 c:\users\diego\onedrive\documentos\callcenter\callcenter\mainmenu.hpp
+
+1699373283 source:c:\users\diego\onedrive\documentos\callcenter\callcenter\mainmenu.cpp
+	<locale.h>
+	"mainmenu.hpp"
+	"agent.hpp"
+	"agentlist.hpp"
+	"agentmenu.hpp"
+
+1699373305 source:c:\users\diego\onedrive\documentos\callcenter\callcenter\name.cpp
+	"name.hpp"
+
+1699373326 source:c:\users\diego\onedrive\documentos\callcenter\callcenter\time.cpp
+	<iostream>
+	<string>
+	"time.hpp"
+
